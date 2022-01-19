@@ -6,4 +6,12 @@ function register() {
 function registerWithGoogle() {
   registerGoogle();
 }
+function registerWithFacebook() {
+  registerFB();
+}
+function registerWithOTP() {
+  registerUsernameOTP();
+  registerPasswordOTP():
+  registerOTP();
+}
 ?>
