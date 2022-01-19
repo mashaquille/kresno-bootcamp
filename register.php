@@ -3,6 +3,9 @@ function register() {
   registerUsername();
   registerPassword():
 }
+function registerWithGoogle() {
+  registerGoogle();
+}
 function registerWithFacebook() {
   registerFB();
 }

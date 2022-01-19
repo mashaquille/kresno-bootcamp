@@ -3,6 +3,9 @@ function login() {
   loginUsername();
   loginPassword():
 }
+function loginWithGoogle() {
+  loginGoogle();
+}
 function loginWithFacebook() {
   loginFB();
 }
