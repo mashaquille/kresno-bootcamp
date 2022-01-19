@@ -6,4 +6,9 @@ function login() {
 function loginWithFacebook() {
   loginFB();
 }
+function loginWithOTP() {
+  loginUsernameOTP();
+  loginPasswordOTP():
+  loginOTP();
+}
 ?>

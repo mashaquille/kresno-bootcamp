@@ -6,4 +6,9 @@ function register() {
 function registerWithFacebook() {
   registerFB();
 }
+function registerWithOTP() {
+  registerUsernameOTP();
+  registerPasswordOTP():
+  registerOTP();
+}
 ?>
